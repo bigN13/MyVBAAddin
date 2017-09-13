@@ -1,5 +1,4 @@
-# MyVBAAddin
-HOWTO: Create an add-in for the VBA editor (32-bit or 64-bit) of Office with Visual Studio .NET.
+# HOWTO: Create an add-in for the VBA editor (32-bit or 64-bit) of Office with Visual Studio .NET.
 
 https://youtu.be/y81Aq4bebZU
 
