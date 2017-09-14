@@ -61,5 +61,6 @@ Go to the "Add-Ins", "Add-In Manager..." menu to check that the add-in is correc
 Load the add-in. You should see the message box "MyVBAAddin.Connect loaded in VBA editor version m.n"
 
 Aknowledgements
+
 https://www.mztools.com/articles/2012/MZ2012011.aspx
 https://www.mztools.com/articles/2012/MZ2012013.aspx
