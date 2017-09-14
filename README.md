@@ -63,4 +63,5 @@ Load the add-in. You should see the message box "MyVBAAddin.Connect loaded in VB
 Aknowledgements
 
 https://www.mztools.com/articles/2012/MZ2012011.aspx
+
 https://www.mztools.com/articles/2012/MZ2012013.aspx
